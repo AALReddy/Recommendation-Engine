@@ -1,1 +1,2 @@
 # Recommendation-Engine
+Hi everyone! In today’s world, there's an overwhelming amount of learning content online such as videos, articles, courses — but finding the right one that fits our skill level, goals, and language can be frustrating. That’s why we built a Recommendation Engine for Curating Learning Content. Our system uses AI and machine learning to scan through platforms like YouTube, research papers, and online learning portals and presents the content.
